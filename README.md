@@ -72,9 +72,8 @@
 
 
 ## 🔥 Most Used Languages
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
@@ -85,7 +84,10 @@
 ## 🧠 Quote
 
 > "Code. Learn. Build. Repeat." 🚀
+> 
 > "First, solve the problem. Then, write the code." – John Johnson
+>
+> "Experience is the name everyone gives to their mistakes." – Oscar Wilde
 
 ---
 
